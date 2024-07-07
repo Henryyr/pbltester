@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PBLTesting</string>
+    <string name="illustration" />
+
+    <string-array name="bank_list">
+        <item>BCA</item>
+        <item>BRI</item>
+        <item>BNI</item>
+    </string-array>
+
+</resources>
